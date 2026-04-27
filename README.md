@@ -56,3 +56,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4b5bb6f-9774-47d5-8741-d440fd164bbf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81b65969-1814-44bb-a1fa-19629bc824fc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26c0a385-21dc-412b-88a6-fadcd4d78ebb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ceaa45b2-3659-4ad6-98cd-18ae2c1bd968" />
+
+Disini saya membuat website Pharmacare yaitu website sistem pengelolaan data obat apotek agar dapat
+mempermudah admin dalam mengelola stok obat secara lebih efisien. Informasi penting yang ditampilkan antara lain data obat, kategori obat, supplier, stok tersedia, harga, tanggal expires, dan status ketersediaan obatnya. Website ini memiliki 3 menu yaitu dashboard, pengelolaan dan profile. Website ini dikembangkan dengan framework laravel dengan konsep MVC. Pada bagian tampilannya menggunakan Bootstrap dan custom CSS. Tema dari pengelolaan yang saya pilih adalah pengelolaan stok obat apotik agar dapat memonitoring ketersediaan obat. 
